@@ -1,5 +1,5 @@
 # mongodb
-
+nodejs构建服务，mongodb构建数据库，实现客户端上传图片，服务端读取并存储的过程----test
 > A Vue.js project
 
 ## Build Setup
